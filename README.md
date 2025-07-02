@@ -1,4 +1,5 @@
 # Data_Insights_Project
+# blinkit Analysis
 ## BUSINESS REQUIREMENT
 To conduct a comprehensive analysis of blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using KPIs and visualizations in Python and Power BI.
 
